@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1b92039a14f00c2c",
+        "id": "5a4ade29ca7e2cac",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b997e0845085aa",
+            "id": "72739c6ddb869f25",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -191,8 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8655106f64166912",
+  "active": "72739c6ddb869f25",
   "lastOpenFiles": [
+    "Templates/Inbox Note.md",
+    "00 Inbox/Untitled.md",
     "03 Machine Learning/Machine Learning MOC.md",
     "01 Dashboard/AI Dashboard.md",
     "00 Inbox.md",
@@ -219,8 +225,6 @@
     "15 Research/Research MOC.md",
     "18 Datasets/Datasets MOC.md",
     "17 Papers/Papers MOC.md",
-    "16 Projects/Projects MOC.md",
-    "Templates/Dataset Note.md",
     "Excalidraw",
     "01 Dashboard",
     "02 Foundations/Mathematics",
