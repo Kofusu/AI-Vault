@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/Untitled.md",
+                "file": "00 Inbox/Templated Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Templated Inbox"
             }
           }
         ]
@@ -195,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72739c6ddb869f25",
+  "active": "6859401971577701",
   "lastOpenFiles": [
     "Templates/Inbox Note.md",
-    "00 Inbox/Untitled.md",
+    "00 Inbox/Templated Inbox.md",
     "03 Machine Learning/Machine Learning MOC.md",
     "01 Dashboard/AI Dashboard.md",
     "00 Inbox.md",
