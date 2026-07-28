@@ -1,70 +1,42 @@
 ---
 type: moc
-status: learning
-domain:
-level:
-created: 28th-Jul-2026
+status: not-started
+domain: machine-learning
+level: domain
+created: 2026-07-28
+updated: 2026-07-28
 ---
 
 # Machine Learning MOC
 
-## Fundamental
+## Tujuan
 
-## Core Concepts
+Umbrella domain untuk fondasi, algoritma classical ML, proyek, paper, dan materi lanjutan.
 
-## Advanced Topics
+## Foundations
 
-## Projects
+- [[Machine Learning Foundations MOC]]
 
-## Papers
+## Core Algorithms
+
+- Linear models
+- Tree-based models
+- Kernel methods
+- Ensemble learning
+- Clustering
+- Dimensionality reduction
+
+Materi algoritma dibuat saat fase Machine Learning lanjutan dimulai.
 
 ## Related MOCs
 
-## Open Questions
-# Machine Learning MOC
+- [[Mathematics MOC]]
+- [[Scientific Computing MOC]]
+- [[Deep Learning MOC]]
+- [[Computer Vision MOC]]
+- [[AI Knowledge Map]]
 
-## Tujuan
+## Projects
 
-## Intuisi
+- [[PRJ - End-to-End ML Baseline]]
 
-## Konsep Dasar
-
-## Kenapa Dibutuhkan
-
-## Cara Kerja
-
-## Penjelasan Teknis
-
-## Rumus
-
-## Diagram
-
-## Contoh
-
-## Implementasi
-
-## Studi Kasus
-
-## Best Practice
-
-## Kesalahan Umum
-
-## Ringkasan
-
-## Hubungan Konsep
-
-- Prasyarat:
-- Terkait:
-- Lanjutan:
-
-## Checklist
-
-- [ ] Paham intuisi
-- [ ] Bisa jelasin ulang
-- [ ] Bisa kasih contoh
-- [ ] Bisa implementasi
-- [ ] Bisa jelasin trade-off
-
-## Pertanyaan
-
-## Referensi

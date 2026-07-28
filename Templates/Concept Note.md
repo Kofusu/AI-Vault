@@ -5,7 +5,6 @@ domain:
 level:
 created: {{date}}
 ---
-
 # {{title}}
 
 ## Tujuan

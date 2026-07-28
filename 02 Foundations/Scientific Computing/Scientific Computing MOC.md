@@ -1,70 +1,84 @@
 ---
 type: moc
-status: learning
-domain:
-level:
-created: 28th-Jul-2026
+status: not-started
+domain: scientific-computing
+level: foundations
+created: 2026-07-28
+updated: 2026-07-28
 ---
 
 # Scientific Computing MOC
 
-## Fundamental
+## Navigasi
 
-## Core Concepts
-
-## Advanced Topics
-
-## Projects
-
-## Papers
-
-## Related MOCs
-
-## Open Questions
-# Scientific Computing MOC
+- Parent: [[AI Knowledge Map]]
+- Progress: [[AI Roadmap#Bab 0.3 — Scientific Computing]]
+- Prasyarat: [[Python MOC]], [[Mathematics MOC]]
 
 ## Tujuan
 
-## Intuisi
+Menggunakan Python untuk komputasi numerik, analisis data, visualisasi, pemrosesan gambar, dan baseline Machine Learning secara benar serta reproducible.
 
-## Konsep Dasar
+## Status Materi
 
-## Kenapa Dibutuhkan
+8 lesson lengkap tersedia. Status ini menunjukkan konten tersedia, bukan berarti sudah selesai dipelajari.
 
-## Cara Kerja
+## Urutan Belajar
 
-## Penjelasan Teknis
+1. [[Scientific Computing Fundamentals]]
+2. [[NumPy Fundamentals]]
+3. [[NumPy Broadcasting and Vectorization]]
+4. [[Pandas Fundamentals]]
+5. [[Matplotlib Fundamentals]]
+6. [[Pillow Fundamentals]]
+7. [[OpenCV Fundamentals]]
+8. [[Scikit-Learn Fundamentals]]
 
-## Rumus
+## Learning Flow
 
-## Diagram
+```text
+Numerical representation
+        ↓
+NumPy arrays
+        ↓
+Vectorization dan broadcasting
+        ↓
+Pandas data analysis
+        ↓
+Matplotlib visualization
+        ↓
+Pillow dan OpenCV image data
+        ↓
+Scikit-Learn pipeline
+```
 
-## Contoh
+## Milestone
 
-## Implementasi
+- Bisa menjelaskan shape, axis, dtype, view, dan copy.
+- Bisa mengganti Python loop dengan vectorized operation.
+- Bisa membersihkan serta menganalisis metadata dataset.
+- Bisa membuat plot dan image grid yang jujur.
+- Bisa memindahkan image antara Pillow, OpenCV, NumPy, dan PyTorch.
+- Bisa membuat baseline Scikit-Learn tanpa data leakage.
 
-## Studi Kasus
+## Mini Project
 
-## Best Practice
+[[PRJ - Image Dataset Explorer]]
 
-## Kesalahan Umum
+Output minimum:
 
-## Ringkasan
+- dataset manifest
+- audit missing/corrupt image
+- statistik class, resolution, dan aspect ratio
+- visualisasi distribusi
+- sample image grid
+- baseline classifier sederhana bila feature tersedia
+- report reproducible
 
-## Hubungan Konsep
+## Related MOCs
 
-- Prasyarat:
-- Terkait:
-- Lanjutan:
+- [[Python MOC]]
+- [[Mathematics MOC]]
+- [[Machine Learning MOC]]
+- [[Computer Vision MOC]]
 
-## Checklist
-
-- [ ] Paham intuisi
-- [ ] Bisa jelasin ulang
-- [ ] Bisa kasih contoh
-- [ ] Bisa implementasi
-- [ ] Bisa jelasin trade-off
-
-## Pertanyaan
-
-## Referensi

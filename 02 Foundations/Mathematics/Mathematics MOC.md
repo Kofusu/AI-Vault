@@ -1,70 +1,88 @@
 ---
 type: moc
 status: learning
-domain:
-level:
-created: 28th-Jul-2026
+domain: mathematics
+level: foundations
+created: 2026-07-28
+updated: 2026-07-28
 ---
 
 # Mathematics MOC
-# Mathematics MOC
 
-## Fundamental
+## Navigasi
 
-## Core Concepts
-
-## Advanced Topics
-
-## Projects
-
-## Papers
-
-## Related MOCs
-
-## Open Questions
+- Parent: [[AI Knowledge Map]]
+- Progress dan urutan: [[AI Roadmap#Bagian 0 — Fundamental (Wajib)]]
 
 ## Tujuan
 
-## Intuisi
+Peta belajar matematika yang dibutuhkan untuk Machine Learning, Deep Learning, Computer Vision, robotics, 3D vision, dan riset AI.
 
-## Konsep Dasar
+## Status Materi
 
-## Kenapa Dibutuhkan
+Seluruh 19 concept note sudah tersedia dalam format lesson lengkap:
 
-## Cara Kerja
+- intuisi dan konsep formal
+- alasan serta cara kerja
+- rumus dan arti simbol
+- contoh perhitungan manual
+- implementasi Python, NumPy, atau PyTorch
+- studi kasus AI dan Computer Vision
+- best practice dan debugging
+- checklist serta latihan
 
-## Penjelasan Teknis
+Status ini menunjukkan **konten tersedia**, bukan berarti materinya sudah selesai dipelajari.
 
-## Rumus
+## Urutan Belajar
 
-## Diagram
+1. [[Linear Algebra MOC]]
+2. [[Probability and Statistics MOC]]
+3. [[Calculus MOC]]
+4. [[Optimization MOC]]
 
-## Contoh
+## Linear Algebra
 
-## Implementasi
+- [[Scalar]]
+- [[Vector]]
+- [[Matrix]]
+- [[Tensor]]
+- [[Matrix Multiplication]]
+- [[Transpose]]
+- [[Determinant]]
+- [[Inverse Matrix]]
+- [[Matrix Rank]]
+- [[Eigenvalue and Eigenvector]]
 
-## Studi Kasus
+## Probability and Statistics
 
-## Best Practice
+- [[Probability]]
+- [[Statistics]]
+- [[Bayes Theorem]]
 
-## Kesalahan Umum
+## Calculus
 
-## Ringkasan
+- [[Derivative]]
+- [[Partial Derivative]]
+- [[Chain Rule]]
+- [[Gradient]]
 
-## Hubungan Konsep
+## Optimization
 
-- Prasyarat:
-- Terkait:
-- Lanjutan:
+- [[Gradient Descent]]
+- [[Convex Optimization]]
 
-## Checklist
+## Hubungan dengan AI
 
-- [ ] Paham intuisi
-- [ ] Bisa jelasin ulang
-- [ ] Bisa kasih contoh
-- [ ] Bisa implementasi
-- [ ] Bisa jelasin trade-off
+```text
+Linear Algebra → representasi data dan operasi model
+Probability    → ketidakpastian dan prediksi
+Statistics     → memahami data dan evaluasi
+Calculus       → perubahan, gradient, backpropagation
+Optimization   → mencari parameter model terbaik
+```
 
-## Pertanyaan
+## Related MOCs
 
-## Referensi
+- [[Machine Learning MOC]]
+- [[Deep Learning MOC]]
+- [[Computer Vision MOC]]
