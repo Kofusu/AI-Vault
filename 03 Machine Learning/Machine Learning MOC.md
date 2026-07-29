@@ -4,7 +4,7 @@ status: not-started
 domain: machine-learning
 level: domain
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-07-29
 ---
 
 # Machine Learning MOC
@@ -19,14 +19,25 @@ Umbrella domain untuk fondasi, algoritma classical ML, proyek, paper, dan materi
 
 ## Core Algorithms
 
-- Linear models
-- Tree-based models
-- Kernel methods
-- Ensemble learning
-- Clustering
-- Dimensionality reduction
+### Linear Models
 
-Materi algoritma dibuat saat fase Machine Learning lanjutan dimulai.
+- [[Linear Regression]]
+- [[Logistic Regression]]
+
+### Instance and Kernel Methods
+
+- [[k-Nearest Neighbors]]
+- [[Support Vector Machine]]
+
+### Tree and Ensemble Models
+
+- [[Decision Tree]]
+- [[Random Forest and Gradient Boosting]]
+
+### Unsupervised Models
+
+- [[K-Means Clustering]]
+- [[Principal Component Analysis]]
 
 ## Related MOCs
 
@@ -39,4 +50,3 @@ Materi algoritma dibuat saat fase Machine Learning lanjutan dimulai.
 ## Projects
 
 - [[PRJ - End-to-End ML Baseline]]
-

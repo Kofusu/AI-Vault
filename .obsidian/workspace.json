@@ -11,10 +11,14 @@
             "id": "645cb6818ea7156d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Dashboard/AI Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "AI Roadmap"
             }
           }
         ]
@@ -191,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6859401971577701",
+  "active": "645cb6818ea7156d",
   "lastOpenFiles": [
     "02 Foundations/Machine Learning/04 Generalization/Cross-Validation and Model Selection.md",
     "02 Foundations/Machine Learning/06 Practice/End-to-End Machine Learning Baseline.md",

@@ -5,7 +5,7 @@ domain: machine-learning
 topic: foundations
 level: foundations
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-07-29
 ---
 
 # Machine Learning Foundations MOC
@@ -73,3 +73,15 @@ Error analysis
 
 - [[PRJ - End-to-End ML Baseline]]
 
+## Lanjutan: Model Classical
+
+Setelah workflow foundation dikuasai, lanjut ke model pada [[Machine Learning MOC]]:
+
+- [[Linear Regression]]
+- [[Logistic Regression]]
+- [[k-Nearest Neighbors]]
+- [[Decision Tree]]
+- [[Random Forest and Gradient Boosting]]
+- [[Support Vector Machine]]
+- [[K-Means Clustering]]
+- [[Principal Component Analysis]]

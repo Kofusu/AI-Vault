@@ -4,7 +4,7 @@ status: learning
 domain: mathematics
 level: foundations
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-07-29
 ---
 
 # Mathematics MOC
@@ -20,7 +20,7 @@ Peta belajar matematika yang dibutuhkan untuk Machine Learning, Deep Learning, C
 
 ## Status Materi
 
-Seluruh 19 concept note sudah tersedia dalam format lesson lengkap:
+Seluruh 24 concept note sudah tersedia dalam format lesson lengkap:
 
 - intuisi dan konsep formal
 - alasan serta cara kerja
@@ -47,6 +47,7 @@ Status ini menunjukkan **konten tersedia**, bukan berarti materinya sudah selesa
 - [[Matrix]]
 - [[Tensor]]
 - [[Matrix Multiplication]]
+- [[Vector Geometry]]
 - [[Transpose]]
 - [[Determinant]]
 - [[Inverse Matrix]]
@@ -56,6 +57,9 @@ Status ini menunjukkan **konten tersedia**, bukan berarti materinya sudah selesa
 ## Probability and Statistics
 
 - [[Probability]]
+- [[Random Variables and Probability Distributions]]
+- [[Expectation Variance and Covariance]]
+- [[Conditional Probability and Independence]]
 - [[Statistics]]
 - [[Bayes Theorem]]
 
@@ -65,11 +69,16 @@ Status ini menunjukkan **konten tersedia**, bukan berarti materinya sudah selesa
 - [[Partial Derivative]]
 - [[Chain Rule]]
 - [[Gradient]]
+- [[Jacobian and Hessian]]
 
 ## Optimization
 
 - [[Gradient Descent]]
 - [[Convex Optimization]]
+
+## Mini Project
+
+- [[PRJ - Mathematical Foundations Visual Lab]]
 
 ## Hubungan dengan AI
 

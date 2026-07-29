@@ -5,7 +5,7 @@ domain: mathematics
 topic: linear-algebra
 level: foundations
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-07-29
 ---
 
 # Linear Algebra MOC
@@ -16,7 +16,7 @@ Memahami cara merepresentasikan data dan transformasi yang menjadi fondasi hampi
 
 ## Status Materi
 
-10 lesson tersedia lengkap. Progress belajar tetap mengikuti checkbox di [[AI Roadmap#Bab 0.1 — Matematika untuk AI]].
+11 lesson tersedia lengkap. Progress belajar tetap mengikuti checkbox di [[AI Roadmap#Bab 0.1 — Matematika untuk AI]].
 
 ## Fundamental Objects
 
@@ -28,20 +28,22 @@ Memahami cara merepresentasikan data dan transformasi yang menjadi fondasi hampi
 ## Operations
 
 5. [[Matrix Multiplication]]
-6. [[Transpose]]
-7. [[Determinant]]
-8. [[Inverse Matrix]]
-9. [[Matrix Rank]]
+6. [[Vector Geometry]]
+7. [[Transpose]]
+8. [[Determinant]]
+9. [[Inverse Matrix]]
+10. [[Matrix Rank]]
 
 ## Advanced Concepts
 
-10. [[Eigenvalue and Eigenvector]]
+11. [[Eigenvalue and Eigenvector]]
 
 ## Relevansi untuk AI dan CV
 
 - Gambar grayscale direpresentasikan sebagai [[Matrix]].
 - Gambar RGB dan batch gambar direpresentasikan sebagai [[Tensor]].
 - Neural network memakai [[Matrix Multiplication]].
+- Similarity, retrieval, distance-based model, dan projection memakai [[Vector Geometry]].
 - PCA dan analisis transformasi memakai [[Eigenvalue and Eigenvector]].
 - Robotics dan 3D vision memakai matrix transformasi, inverse, dan koordinat.
 

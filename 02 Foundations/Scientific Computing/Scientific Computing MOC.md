@@ -4,7 +4,7 @@ status: not-started
 domain: scientific-computing
 level: foundations
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-07-29
 ---
 
 # Scientific Computing MOC
@@ -77,8 +77,8 @@ Output minimum:
 
 ## Related MOCs
 
+- [[Software Engineering for AI MOC]]
 - [[Python MOC]]
 - [[Mathematics MOC]]
 - [[Machine Learning MOC]]
 - [[Computer Vision MOC]]
-

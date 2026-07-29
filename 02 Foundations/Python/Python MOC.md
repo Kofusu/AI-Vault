@@ -1,10 +1,10 @@
 ---
 type: moc
-status: learning
+status: not-started
 domain: python
 level: foundations
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-07-29
 ---
 
 # Python MOC
@@ -90,6 +90,7 @@ Fitur minimum:
 
 ## Related MOCs
 
+- [[Software Engineering for AI MOC]]
 - [[Mathematics MOC]]
 - [[Scientific Computing MOC]]
 - [[Machine Learning MOC]]

@@ -71,6 +71,7 @@ Status: **materi lengkap tersedia, sedang dipelajari**
 
 - [ ] [[Scalar]]
 - [ ] [[Vector]]
+- [ ] [[Vector Geometry]]
 - [ ] [[Matrix]]
 - [ ] [[Tensor]]
 - [ ] [[Matrix Multiplication]]
@@ -83,6 +84,9 @@ Status: **materi lengkap tersedia, sedang dipelajari**
 ### Probability and Statistics
 
 - [ ] [[Probability]]
+- [ ] [[Random Variables and Probability Distributions]]
+- [ ] [[Expectation Variance and Covariance]]
+- [ ] [[Conditional Probability and Independence]]
 - [ ] [[Statistics]]
 - [ ] [[Bayes Theorem]]
 
@@ -92,6 +96,7 @@ Status: **materi lengkap tersedia, sedang dipelajari**
 - [ ] [[Partial Derivative]]
 - [ ] [[Chain Rule]]
 - [ ] [[Gradient]]
+- [ ] [[Jacobian and Hessian]]
 
 ### Optimization
 
@@ -100,7 +105,7 @@ Status: **materi lengkap tersedia, sedang dipelajari**
 
 **Milestone:** bisa menjelaskan bagaimana data direpresentasikan dan bagaimana gradient dipakai untuk menurunkan loss.
 
-**Mini project:** visualisasi vector, matrix transformation, distribusi data, dan gradient descent menggunakan NumPy serta Matplotlib.
+**Mini project:** [[PRJ - Mathematical Foundations Visual Lab]]
 
 ## Bab 0.2 — Python untuk AI
 
@@ -121,7 +126,7 @@ Status: **materi lengkap tersedia, belum dimulai**
 
 **Milestone:** mampu membuat program Python modular dan membaca error dengan mandiri.
 
-**Mini project:** command-line image organizer dengan logging dan error handling.
+**Mini project:** [[PRJ - Command-Line Image Organizer]]
 
 **Index materi:** [[Python MOC]]
 
@@ -140,7 +145,7 @@ Status: **materi lengkap tersedia, belum dimulai**
 
 **Milestone:** mampu memuat, memanipulasi, menganalisis, dan memvisualisasikan data numerik serta gambar.
 
-**Mini project:** exploratory analysis dataset gambar.
+**Mini project:** [[PRJ - Image Dataset Explorer]]
 
 **Index materi:** [[Scientific Computing MOC]]
 
@@ -163,20 +168,35 @@ Status: **materi lengkap tersedia, belum dimulai**
 
 **Milestone:** mampu membangun dan mengevaluasi baseline ML tanpa data leakage.
 
-**Mini project:** classification pipeline end-to-end dengan Scikit-Learn.
+### Algoritma Classical ML
+
+- [ ] [[Linear Regression]]
+- [ ] [[Logistic Regression]]
+- [ ] [[k-Nearest Neighbors]]
+- [ ] [[Decision Tree]]
+- [ ] [[Random Forest and Gradient Boosting]]
+- [ ] [[Support Vector Machine]]
+- [ ] [[K-Means Clustering]]
+- [ ] [[Principal Component Analysis]]
+
+**Mini project:** [[PRJ - End-to-End ML Baseline]]
 
 **Index materi:** [[Machine Learning Foundations MOC]]
 
 ## Pendukung — Software Engineering untuk AI
 
-- [ ] Git dan GitHub
-- [ ] Linux command line
-- [ ] Bash dasar
-- [ ] Project structure
-- [ ] Clean code
-- [ ] Testing dengan `pytest`
-- [ ] Configuration management
-- [ ] Python packaging
+Status: **materi lengkap tersedia, belum dimulai**
+
+- [ ] [[Git and GitHub Fundamentals]]
+- [ ] [[Linux Command Line]]
+- [ ] [[Bash Fundamentals]]
+- [ ] [[AI Project Structure]]
+- [ ] [[Clean Code for AI]]
+- [ ] [[Testing AI Code with Pytest]]
+- [ ] [[Configuration Management for AI]]
+- [ ] [[Python Packaging]]
+
+**Index materi:** [[Software Engineering for AI MOC]]
 
 ---
 
